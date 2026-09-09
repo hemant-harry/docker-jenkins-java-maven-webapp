@@ -74,7 +74,7 @@
 
 <nav class="navbar">
     <div class="container">
-        <a href="/">Java 21 Web Application</a>
+        <a href="/">Java 21 Web Application successfully 2 2 </a>
     </div>
 </nav>
 
